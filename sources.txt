@@ -27,3 +27,4 @@ fre4kyC0de 6.1.7601.24326*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.
 fre4kyC0de 6.1.7601.24402*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.24402.txt
 fre4kyC0de 6.2.9200.22715*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.2.9200.22715.txt
 fre4kyC0de 6.3.9600.19318*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.3.9600.19318.txt
+Octanium91 10.0.18362.53 (only x64)*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap_18362.53_x64.ini
