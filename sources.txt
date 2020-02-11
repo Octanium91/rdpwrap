@@ -3,6 +3,8 @@
 # example: Octanium91*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap.ini
 Stas'M (stascorp)*raw.githubusercontent.com/stascorp/rdpwrap/master/res/rdpwrap.ini
 Tom Maguire (tmaguire)*raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdpwrap.ini
+fre4kyC0de 10.0.14393.3471*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.3471.txt
+fre4kyC0de 10.0.14393.3383*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.3383.txt
 fre4kyC0de 10.0.10240.18036*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18036.txt
 fre4kyC0de 10.0.10240.18186*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18186.txt
 fre4kyC0de 10.0.14393.2608*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.2608.txt
