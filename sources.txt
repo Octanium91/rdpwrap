@@ -6,15 +6,39 @@ Asmtron*raw.githubusercontent.com/asmtron/rdpwrap/master/res/rdpwrap.ini
 Saurav-biswas*raw.githubusercontent.com/saurav-biswas/rdpwrap-1/patch-1/res/rdpwrap.ini
 Tom Maguire (tmaguire)*raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdpwrap.ini
 kotadr*raw.githubusercontent.com/kotadr/rdpwrap/master/res/rdpwrap.ini
+# fre4kyC0de 10.0.18362.657*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.657.txt
+# fre4kyC0de 10.0.18362.267*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.267.txt
+# fre4kyC0de 10.0.18362.53*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.53.txt
+# fre4kyC0de 10.0.18362.1*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.1.txt
+# fre4kyC0de 10.0.17134.1304*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.1304.txt
+# fre4kyC0de 10.0.17134.706*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.706.txt
+# fre4kyC0de 10.0.17763.771*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.771.txt
+# fre4kyC0de 10.0.17763.437*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.437.txt
+# fre4kyC0de 10.0.17763.292*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.292.txt
+# fre4kyC0de 10.0.17763.168*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.168.txt
+# fre4kyC0de 10.0.17763.1*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.1.txt
+fre4kyC0de 10.0.16299.1087*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.16299.1087.txt
+fre4kyC0de 10.0.15063.2283*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.15063.2283.txt
+fre4kyC0de 10.0.15063.1746*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.15063.1746.txt
+fre4kyC0de 10.0.14393.3503*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.3503.txt
 fre4kyC0de 10.0.14393.3471*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.3471.txt
 fre4kyC0de 10.0.14393.3383*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.3383.txt
-fre4kyC0de 10.0.10240.18036*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18036.txt
-fre4kyC0de 10.0.10240.18186*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18186.txt
 fre4kyC0de 10.0.14393.2608*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.2608.txt
 fre4kyC0de 10.0.14393.2906*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.14393.2906.txt
-fre4kyC0de 10.0.15063.1746*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.15063.1746.txt
-fre4kyC0de 10.0.16299.1087*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.16299.1087.txt
-fre4kyC0de 10.0.17134.706*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.706.txt
+fre4kyC0de 10.0.10240.18485*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18485.txt
+fre4kyC0de 10.0.10240.18186*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18186.txt
+fre4kyC0de 10.0.10240.18036*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.10240.18036.txt
+fre4kyC0de 6.3.9600.19628*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.3.9600.19628.txt
+fre4kyC0de 6.3.9600.19318*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.3.9600.19318.tx
+fre4kyC0de 6.2.9200.22977*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.2.9200.22977.txt
+fre4kyC0de 6.2.9200.22715*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.2.9200.22715.txt
+fre4kyC0de 6.1.7601.22213*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22213.txt
+fre4kyC0de 6.1.7601.22435*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22435.txt
+fre4kyC0de 6.1.7601.22476*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22476.txt
+fre4kyC0de 6.1.7601.24326*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.24326.txt
+fre4kyC0de 6.1.7601.24402*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.24402.txt
+fre4kyC0de 6.1.7600.20621*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7600.20621.txt
+fre4kyC0de 6.1.7600.21420*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7600.21420.txt
 fre4kyC0de 6.0.6001.22286*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6001.22286.txt
 fre4kyC0de 6.0.6001.22323*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6001.22323.txt
 fre4kyC0de 6.0.6001.22357*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6001.22357.txt
@@ -23,13 +47,4 @@ fre4kyC0de 6.0.6002.22515*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.
 fre4kyC0de 6.0.6002.22641*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6002.22641.txt
 fre4kyC0de 6.0.6002.22790*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6002.22790.txt
 fre4kyC0de 6.0.6003.20482*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6003.20482.txt
-fre4kyC0de 6.1.7600.20621*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7600.20621.txt
-fre4kyC0de 6.1.7600.21420*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7600.21420.txt
-fre4kyC0de 6.1.7601.22213*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22213.txt
-fre4kyC0de 6.1.7601.22435*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22435.txt
-fre4kyC0de 6.1.7601.22476*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.22476.txt
-fre4kyC0de 6.1.7601.24326*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.24326.txt
-fre4kyC0de 6.1.7601.24402*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.1.7601.24402.txt
-fre4kyC0de 6.2.9200.22715*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.2.9200.22715.txt
-fre4kyC0de 6.3.9600.19318*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.3.9600.19318.txt
 Octanium91 10.0.18362.53\116 (only x64)*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap_18362.53_116_x64.ini
