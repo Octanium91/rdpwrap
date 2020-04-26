@@ -10,13 +10,13 @@ kotadr*raw.githubusercontent.com/kotadr/rdpwrap/master/res/rdpwrap.ini
 # fre4kyC0de 10.0.18362.267*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.267.txt
 # fre4kyC0de 10.0.18362.53*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.53.txt
 # fre4kyC0de 10.0.18362.1*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.1.txt
-# fre4kyC0de 10.0.17134.1304*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.1304.txt
-# fre4kyC0de 10.0.17134.706*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.706.txt
 # fre4kyC0de 10.0.17763.771*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.771.txt
 # fre4kyC0de 10.0.17763.437*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.437.txt
 # fre4kyC0de 10.0.17763.292*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.292.txt
 # fre4kyC0de 10.0.17763.168*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.168.txt
 # fre4kyC0de 10.0.17763.1*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17763.1.txt
+# fre4kyC0de 10.0.17134.1304*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.1304.txt
+# fre4kyC0de 10.0.17134.706*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.17134.706.txt
 fre4kyC0de 10.0.16299.1087*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.16299.1087.txt
 fre4kyC0de 10.0.15063.2283*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.15063.2283.txt
 fre4kyC0de 10.0.15063.1746*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.15063.1746.txt
