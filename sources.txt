@@ -8,6 +8,7 @@ Tom Maguire (tmaguire)*raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdp
 kotadr*raw.githubusercontent.com/kotadr/rdpwrap/master/res/rdpwrap.ini
 affinityv*raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini
 DrDrrae*raw.githubusercontent.com/DrDrrae/rdpwrap/master/res/rdpwrap.ini
+sebaxakerhtc*raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini
 # fre4kyC0de 10.0.18362.657*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.657.txt
 # fre4kyC0de 10.0.18362.267*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.267.txt
 # fre4kyC0de 10.0.18362.53*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.53.txt
@@ -50,4 +51,5 @@ DrDrrae*raw.githubusercontent.com/DrDrrae/rdpwrap/master/res/rdpwrap.ini
 # fre4kyC0de 6.0.6001.22323*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6001.22323.txt
 # fre4kyC0de 6.0.6001.22286*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/6.0.6001.22286.txt
 Octanium91 10.0.18362.53\116 (only x64)*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap_18362.53_116_x64.ini
+Octanium91 custom config*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrapCustom.ini
 Octanium91 full config*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrapFull.ini
