@@ -2,6 +2,7 @@
 # add string [source name]*[source url]
 # example: Octanium91*raw.githubusercontent.com/Octanium91/rdpwrap/master/rdpwrap.ini
 Stas'M (stascorp)*raw.githubusercontent.com/stascorp/rdpwrap/master/res/rdpwrap.ini
+sebaxakerhtc*raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini
 Asmtron*raw.githubusercontent.com/asmtron/rdpwrap/master/res/rdpwrap.ini
 Saurav-biswas*raw.githubusercontent.com/saurav-biswas/rdpwrap-1/patch-1/res/rdpwrap.ini
 Tom Maguire (tmaguire)*raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdpwrap.ini
