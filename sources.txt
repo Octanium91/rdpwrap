@@ -9,7 +9,6 @@ Tom Maguire (tmaguire)*raw.githubusercontent.com/tmaguire/rdpwrap/master/res/rdp
 kotadr*raw.githubusercontent.com/kotadr/rdpwrap/master/res/rdpwrap.ini
 affinityv*raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini
 DrDrrae*raw.githubusercontent.com/DrDrrae/rdpwrap/master/res/rdpwrap.ini
-sebaxakerhtc*raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini
 # fre4kyC0de 10.0.18362.657*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.657.txt
 # fre4kyC0de 10.0.18362.267*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.267.txt
 # fre4kyC0de 10.0.18362.53*raw.githubusercontent.com/fre4kyC0de/rdpwrap/master/10.0.18362.53.txt
